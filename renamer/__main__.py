@@ -36,7 +36,7 @@ def main():
     idle()
 
     Renamer.stop()
-    print("Ok bye bye 😢.")
+    print("Ok bye bye 🙄.")
 
 if __name__ == "__main__":
     main()
